@@ -8,7 +8,7 @@ approach:
 | `HDP-HMM/` | MATLAB | `generate_x`, then `hdp_hmm_gibbs_crf_minibatch` |
 | `RNN/` | Python | `run.ipynb` |
 | `CSCG/` | Python | `intro.ipynb` |
-| `TEM/` | Python (TensorFlow) | `run_tem.py` / `TEM_notebook.ipynb` |
+| `TEM/` | Python | `run_tem.py` / `TEM_notebook.ipynb` |
 
 ## HDP-HMM (MATLAB)
 
