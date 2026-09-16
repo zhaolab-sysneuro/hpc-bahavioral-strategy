@@ -1,4 +1,4 @@
-# hpc-bahavioral-strategy
+# hpc-behavioral-strategy
 
 Code accompanying the manuscript. Each top-level folder is one model
 approach:
