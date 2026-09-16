@@ -10,6 +10,17 @@ approach:
 | `CSCG/` | Python | `intro.ipynb` |
 | `TEM/` | Python | `run_tem.py` / `TEM_notebook.ipynb` |
 
+## Environment
+
+Two conda environments are used, one per dependency stack. Create them with:
+
+```bash
+# TEM (TensorFlow)
+conda env create -f environment-tem.yml
+
+# RNN and CSCG (PyTorch)
+conda env create -f environment-analysis.yml
+
 ## HDP-HMM (MATLAB)
 
 1. Run `generate_x.m` first to produce a sequence of observations.
