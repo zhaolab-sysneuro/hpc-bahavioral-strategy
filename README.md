@@ -27,6 +27,7 @@ Open and run `CSCG/intro.ipynb`.
 ## TEM (Tolman-Eichenbaum Machine)
 
 run `python3 TEM/main/run_tem.py`.
+To look at the result, open and run `TEM/main/TEM_notebook.ipynb`.
 
 ## License
 
