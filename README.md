@@ -12,9 +12,9 @@ approach:
 
 ## HDP-HMM (MATLAB)
 
-1. Run **`generate_x`** first to produce a sequence of observations.
+1. Run `generate_x.m` first to produce a sequence of observations.
 2. Use the generated sequence as the input to
-   **`hdp_hmm_gibbs_crf_minibatch`** to train a hidden Markov model.
+   `hdp_hmm_gibbs_crf_minibatch.m` to train a hidden Markov model.
 
 ## RNN
 
