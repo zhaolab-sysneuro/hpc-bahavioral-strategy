@@ -29,9 +29,6 @@ Open and run `CSCG/intro.ipynb`.
 - To look at the results, open `TEM/main/TEM_notebook.ipynb`.
 - To run the model, run `python3 TEM/main/run_tem.py`.
 
-The TEM implementation is based on the Tolman-Eichenbaum Machine; see
-`TEM/main/README.md` for the original project details and dependencies.
-
 ## License
 
 See `LICENSE`.
