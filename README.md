@@ -14,7 +14,6 @@ approach:
 
 Two conda environments are used, one per dependency stack. Create them with:
 
-```bash
 # TEM (TensorFlow)
 conda env create -f environment-tem.yml
 
