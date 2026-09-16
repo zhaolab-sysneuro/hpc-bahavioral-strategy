@@ -30,9 +30,15 @@ Open and run `RNN/run.ipynb`.
 
 ## CSCG
 
+The CSCG code is adapted from:
+https://github.com/vicariousinc/naturecomm_cscg.
+
 Open and run `CSCG/intro.ipynb`.
 
-## TEM (Tolman-Eichenbaum Machine)
+## TEM
+
+The TEM code is adapted from:
+https://www.github.com/djcrw/generalising-structural-knowledge.
 
 Run `python3 TEM/main/run_tem.py`.
 To look at the result, open and run `TEM/main/TEM_notebook.ipynb`.
