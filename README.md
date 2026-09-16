@@ -14,10 +14,12 @@ approach:
 
 Two conda environments are used, one per dependency stack. Create them with:
 
-# TEM (TensorFlow)
+TEM (TensorFlow)
+
 conda env create -f environment-tem.yml
 
-# RNN and CSCG (PyTorch)
+RNN and CSCG (PyTorch)
+
 conda env create -f environment-analysis.yml
 
 ## HDP-HMM (MATLAB)
