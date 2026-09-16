@@ -1,6 +1,6 @@
 # hpc-bahavioral-strategy
 
-Code accompanying the manuscript. Each top-level folder is one model / analysis
+Code accompanying the manuscript. Each top-level folder is one model
 approach:
 
 | Folder | Language | Entry point |
