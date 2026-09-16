@@ -5,12 +5,12 @@ approach:
 
 | Folder | Language | Entry point |
 |---|---|---|
-| `MDP-HMM/` | MATLAB | `generate_x`, then `hdp_hmm_gibbs_crf_minibatch` |
+| `HDP-HMM/` | MATLAB | `generate_x`, then `hdp_hmm_gibbs_crf_minibatch` |
 | `RNN/` | Python | `run.ipynb` |
 | `CSCG/` | Python | `intro.ipynb` |
 | `TEM/` | Python (TensorFlow) | `run_tem.py` / `TEM_notebook.ipynb` |
 
-## MDP-HMM (MATLAB)
+## HDP-HMM (MATLAB)
 
 1. Run **`generate_x`** first to produce a sequence of observations.
 2. Use the generated sequence as the input to
